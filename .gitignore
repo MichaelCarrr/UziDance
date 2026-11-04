@@ -1,0 +1,11 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+/build/
+/scratch/
+
+# agent tooling (not part of the game)
+.agents/
+.claude/
+skills-lock.json
+tools/cert/
